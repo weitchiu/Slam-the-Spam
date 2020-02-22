@@ -1,5 +1,5 @@
-# Group-11-Project
-"Slam the Spam" B351 Final Project
+# Slam the Spam
+"Slam the Spam" Introduction to Artificial Intelligence Final Project
 
 To run our test code:
 
